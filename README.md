@@ -1,8 +1,7 @@
 # This folder contains all the codes and the files required to generate the images in the paper titled  ``Unraveling microbial interactions in the gut microbiome``
 
 ## Before starting to run the codes
-Unzip the contents of ``AllGraphs.zip`` and ``XML.zip`` folder and copy the contents to the current directory.
-`AllGraphs.zip` will have two folders named `FinalSingle` and `FinalDouble`.
+Unzip the contents of ``XML.zip`` folder.
 `XML.zip` will have one folder named `XML`.
 
 ## Codes and their description
@@ -16,6 +15,7 @@ Input required - Bipartite network of individual organisms (found inside `FinalS
 6. `draw_circled_heatmap.R` - Uses the output from 3 to draw the circled heatmap (Fig 4 in main manuscript).
 7. `get_bar_plot_metexc.R` - Produces Fig 5.
 8. `get_unique_metabolic_exchanges.py` - Produces Fig 6 and 7. 
+9. `create_graph.py` - Creates the joint and single bipartite graphs of organisms in `XML` folder.
 
 ## Other data files
 1. `Association_Network_Edges_in_both_DMEM_and_HF.txt` - Edge list file which was used to generate Fig 3.
