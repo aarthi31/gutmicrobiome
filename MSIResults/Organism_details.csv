@@ -1,0 +1,53 @@
+﻿Organism,Organismwosubspecies,Phyla,Family,Color
+Bifidobacterium adolescentis ATCC 15703,Bifidobacterium adolescentis,Actinobacteria,Bifidobacteriaceae,#76608A
+Bifidobacterium bifidum PRL2010,Bifidobacterium bifidum,Actinobacteria,Bifidobacteriaceae,#76608A
+Bifidobacterium longum NCC2705,Bifidobacterium longum,Actinobacteria,Bifidobacteriaceae,#76608A
+Collinsella tanakaei YIT 12063,Collinsella tanakaei,Actinobacteria,Coriobacteriaceae,#76608A
+Alistipes finegoldii DSM 17242,Alistipes finegoldii,Bacteroidetes,Rikenellaceae,#A20025
+Alistipes putredinis DSM 17216,Alistipes putredinis,Bacteroidetes,Rikenellaceae,#A20026
+Alistipes shahii WAL 8301,Alistipes shahii,Bacteroidetes,Rikenellaceae,#A20027
+Bacteroides caccae ATCC 43185,Bacteroides caccae,Bacteroidetes,Bacteroidaceae,#A20028
+Bacteroides coprocola M16 DSM 17136,Bacteroides coprocola,Bacteroidetes,Bacteroidaceae,#A20029
+Bacteroides eggerthii DSM 20697,Bacteroides eggerthii,Bacteroidetes,Bacteroidaceae,#A20030
+Bacteroides fragilis NCTC 9343,Bacteroides fragilis,Bacteroidetes,Bacteroidaceae,#A20031
+Bacteroides intestinalis 341 DSM 17393,Bacteroides intestinalis,Bacteroidetes,Bacteroidaceae,#A20032
+Bacteroides stercoris ATCC 43183,Bacteroides stercoris,Bacteroidetes,Bacteroidaceae,#A20033
+Bacteroides thetaiotaomicron VPI 5482,Bacteroides thetaiotaomicron,Bacteroidetes,Bacteroidaceae,#A20034
+Bacteroides uniformis ATCC 8492,Bacteroides uniformis,Bacteroidetes,Bacteroidaceae,#A20035
+Parabacteroides distasonis ATCC 8503,Parabacteroides distasonis,Bacteroidetes,Porphyromonadaceae,#A20036
+Parabacteroides johnsonii DSM 18315,Parabacteroides johnsonii,Bacteroidetes,Porphyromonadaceae,#A20037
+Prevotella ruminicola 23,Prevotella ruminicola,Bacteroidetes,Prevotellaceae,#A20038
+Acidaminococcus fermentans DSM 20731,Acidaminococcus fermentans,Firmicutes,Acidaminococcaceae,#008A00
+Blautia wexlerae DSM 19850,Blautia wexlerae,Firmicutes,Lachnospiraceae,#008A01
+Clostridium clostridioforme CM201,Clostridium clostridioforme,Firmicutes,Lachnospiraceae,#008A02
+Coprococcus catus GD 7,Coprococcus catus,Firmicutes,Lachnospiraceae,#008A03
+Dialister invisus DSM 15470,Dialister invisus,Firmicutes,Veillonellaceae,#008A04
+Dorea longicatena DSM 13814,Dorea longicatena,Firmicutes,Lachnospiraceae,#008A05
+Enterococcus faecium TX1330,Enterococcus faecium,Firmicutes,Enterococcaceae,#008A06
+Eubacterium rectale M104 1,Eubacterium rectale,Firmicutes,Lachnospiraceae,#008A07
+Faecalibacterium prausnitzii L2 6,Faecalibacterium prausnitzii,Firmicutes,Ruminococcaceae,#008A08
+Lactobacillus mucosae LM1,Lactobacillus mucosae,Firmicutes,Lactobacillaceae,#008A09
+Lactobacillus reuteri SD2112 ATCC 55730,Lactobacillus reuteri,Firmicutes,Lactobacillaceae,#008A10
+Megasphaera elsdenii DSM 20460,Megasphaera elsdenii,Firmicutes,Veillonellaceae,#008A11
+Phascolarctobacterium succinatutens YIT 12067,Phascolarctobacterium succinatutens,Firmicutes,Acidaminococcaceae,#008A12
+Pseudoflavonifractor capillosus strain ATCC 29799,Pseudoflavonifractor capillosus,Firmicutes,unclassified Clostridiales,#008A13
+Roseburia intestinalis L1 82,Roseburia intestinalis,Firmicutes,Lachnospiraceae,#008A14
+Roseburia inulinivorans DSM 16841,Roseburia inulinivorans,Firmicutes,Lachnospiraceae,#008A15
+Ruminococcus bromii L2 63,Ruminococcus bromii,Firmicutes,Ruminococcaceae,#008A16
+Ruminococcus callidus ATCC 2776001,Ruminococcus callidus,Firmicutes,Ruminococcaceae,#008A17
+Ruminococcus torques ATCC 27756,Ruminococcus torques,Firmicutes,Lachnospiraceae,#008A18
+Streptococcus salivarius JIM8777,Streptococcus salivarius,Firmicutes,Streptococcaceae,#008A19
+Subdoligranulum variabile DSM 15176,Subdoligranulum variabile,Firmicutes,Ruminococcaceae,#008A20
+Veillonella atypica ACS 049 V Sch6,Veillonella atypica,Firmicutes,Veillonellaceae,#008A21
+Fusobacterium varium ATCC 27725,Fusobacterium varium,Fusobacteria,Fusobacteriaceae,#647687
+Bilophila wadsworthia 3 1 6,Bilophila wadsworthia,Proteobacteria,Desulfovibrionaceae,#FA6800
+Citrobacter amalonaticus Y19,Citrobacter amalonaticus,Proteobacteria,Enterobacteriaceae,#FA6801
+Desulfovibrio desulfuricans subsp desulfuricans DSM 642,Desulfovibrio desulfuricans,Proteobacteria,Desulfovibrionaceae,#FA6802
+Desulfovibrio piger ATCC 29098,Desulfovibrio piger,Proteobacteria,Desulfovibrionaceae,#FA6803
+Enterobacter cloacae EcWSU1,Enterobacter cloacae,Proteobacteria,Enterobacteriaceae,#FA6804
+Escherichia coli str K 12 substr MG1655,Escherichia coli,Proteobacteria,Enterobacteriaceae,#FA6805
+Haemophilus parainfluenzae T3T1,Haemophilus parainfluenzae,Proteobacteria,Pasteurellaceae,#FA6806
+Helicobacter pylori 26695,Helicobacter pylori,Proteobacteria,Helicobacteraceae,#FA6807
+Klebsiella pneumoniae pneumoniae MGH78578,Klebsiella pneumoniae,Proteobacteria,Enterobacteriaceae,#FA6808
+Shigella flexneri 2002017,Shigella flexneri,Proteobacteria,Enterobacteriaceae,#FA6809
+Akkermansia muciniphila ATCC BAA 835,Akkermansia muciniphila,Verrucomicrobia,Akkermansiaceae,#003d60
