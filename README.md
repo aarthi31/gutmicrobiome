@@ -27,4 +27,4 @@ Input required - Bipartite network of individual organisms (found inside `FinalS
 6. `MediaConditions` - Has all the seed metabolite constituents of DMEM, HF and minimal glucose conditions.
 
 ## Citation
-Aarthi Ravikrishnan & Karthik Raman, Unraveling microbial interactions in the gut microbiome *(submitted for publication)*
+Aarthi Ravikrishnan & Karthik Raman, Unraveling microbial interactions in the gut microbiome *(submitted)*
