@@ -1,6 +1,6 @@
-# This folder contains all the codes and the files required to generate the images in the paper titled  ``Unraveling microbial interactions in the gut microbiome``
+# This folder contains all the codes and the files required to generate the images in the paper titled  **Unraveling microbial interactions in the gut microbiome**
 
-## Before starting to run the codes
+## Before running the codes
 Unzip the contents of ``XML.zip`` folder.
 `XML.zip` will have one folder named `XML`.
 
