@@ -16,6 +16,7 @@ Input required - Bipartite network of individual organisms (found inside `FinalS
 7. `get_bar_plot_metexc.R` - Produces Fig 5.
 8. `get_unique_metabolic_exchanges.py` - Produces Fig 6 and 7. 
 9. `create_graph.py` - Creates the joint and single bipartite graphs of organisms in `XML` folder.
+10. `find_pathways_from_medium.py` - Computes all the pathways between the seed metabolites and all the metabolites in scope.
 
 ## Other data files
 1. `Association_Network_Edges_in_both_DMEM_and_HF.txt` - Edge list file which was used to generate Fig 3.
