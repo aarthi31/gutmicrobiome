@@ -1,4 +1,4 @@
-# This folder contains all the codes and the files required to generate the images in the paper titled  **Unraveling microbial interactions in the gut microbiome**
+This folder contains all the codes and the files required to generate the images in the paper titled  **Unraveling microbial interactions in the gut microbiome**
 
 ## Before running the codes
 Unzip the contents of ``XML.zip`` folder.
@@ -25,3 +25,6 @@ Input required - Bipartite network of individual organisms (found inside `FinalS
 4. `scoperesFinal` - Has 4 files of metabolic scope of joint and individual microbes (one with organism identifier, other with just the name).
 5. `MSIResults` - Used by `msi_box_plot_based_on_org_benefit.R` to generate Fig 1.
 6. `MediaConditions` - Has all the seed metabolite constituents of DMEM, HF and minimal glucose conditions.
+
+## Citation
+Aarthi Ravikrishnan & Karthik Raman, Unraveling microbial interactions in the gut microbiome __(submitted for publication)__
